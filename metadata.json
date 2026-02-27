@@ -1,0 +1,5 @@
+{
+  "name": "CD³S — Clinical Decision Drift Detection System",
+  "description": "A Drift-Aware Governance Intelligence Layer that monitors clinical decision behavior evolution to prevent protocol obsolescence and silent drift.",
+  "requestFramePermissions": []
+}
