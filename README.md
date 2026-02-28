@@ -1,5 +1,7 @@
 # CD³S: Clinical Decision Drift Detection System
 
+https://youtu.be/rsNtQXpIXng?si=is8J6IU-PpjqwtcS
+
 **CD³S** (Clinical Decision Drift Detection System) is a next-generation clinical governance platform designed to detect "silent" protocol drift and identify when medical guidelines have become obsolete. Unlike legacy systems that rely on static historical reasoning, CD³S uses real-time behavioral intelligence to monitor how clinical practice evolves in the real world.
 
 ## 🚀 Core Value Proposition
